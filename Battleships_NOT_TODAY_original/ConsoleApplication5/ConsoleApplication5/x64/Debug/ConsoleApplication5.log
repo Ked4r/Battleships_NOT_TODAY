@@ -1,0 +1,4 @@
+﻿cl : wiersz polecenia  warning D9014: nieprawidłowa wartość "266" dla "/wd"; przyjmuje się "5999"
+  ConsoleApplication5.cpp
+F:\Studia\ProjektyGier\Battleships_NOT_TODAY\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(64,9): warning C4101: "j": lokalna zmienna, do której nie istnieje odwołanie
+  ConsoleApplication5.vcxproj -> F:\Studia\ProjektyGier\Battleships_NOT_TODAY\ConsoleApplication5\x64\Debug\ConsoleApplication5.exe
